@@ -107,7 +107,7 @@ def get_bet():
     
     
 def instructions():
-    print("Welcome to my betting scheme")
+    print("Welcome to my betting game")
     print("you can deposit betting coins to the scheme and input the lines of slots you would want to bet on")
     print("Finally you would be asked to input how much you would be betting per line of slots ")
     print(f"Note for now there are only {MAX_LINES} lines of slots to bet on")
