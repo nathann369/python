@@ -131,7 +131,7 @@ def spin(balance):
     print(f"you won ${winnings}.")
     print(f"you won on line", * winning_lines)
     return winnings - total_bets
-
+#the main block
 def main():
     instructions()
     balance = deposit()
